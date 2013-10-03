@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "ResourceViewer: Find Resource",
+        "command": "find_resource"
+    }
+]
